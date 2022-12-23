@@ -57,6 +57,7 @@ title: Interview questions
 - Let's say my interview went well, and I get this job. In a year, what skills do I need to show to consider this hire a successful hire?
 - Does this position require travel?
 - How much are you planning to hire this year?
+- What's a mistake that was made recently, and how was it handled?
 
 
 ## Other 
